@@ -5,7 +5,24 @@
     <head>
         <title>infocorp.</title>
         <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0"></meta>
-        
+     <style>   h1{
+    color:crimson;
+    text-shadow:1px 1px 1px black;
+    text-transform:non;
+    padding:1px;
+    
+}
+h3{
+    color:black ;
+    padding:1px;
+    text-shadow:1px 1px 1px crimson;
+}
+a{
+    text-decoration:none;
+    
+}
+
+</style>   
     </head>
     <body bgcolor="lightblue">
         <header>
@@ -47,5 +64,30 @@
             
             <a href="#" target="_blank">click to invest</a>
         </nav>
+        <script>   alert("welcome to infocorp");
+var isOnline = true ;
+var isOffline = false ;
+
+if (!isOnline && isOffline){
+    document.write("you are not connected to network");
+}
+else if(isOnline && !isOffline){
+    document.write("welcome");
+    
+}
+else if(isOffline && isOnline ){
+    document.write("accesss denied");
+    
+}
+else if(!isOffline && !isOnline){
+    document.write("you are not authorised");
+}
+for(x=0;x<1;x++){
+    console.log("25 din me paisa double");
+}
+
+
+ </script>
+        
     </body>
 </html>

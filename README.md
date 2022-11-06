@@ -1,4 +1,4 @@
-# Infocorp.html
+# Infocorp
 Demonstrattion of html, css and javascript in one page named as infocorp.
 Infocorp is a startup idea that i decided to present it in this way.
 # Services that infocorp are supposed to provide :

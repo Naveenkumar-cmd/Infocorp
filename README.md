@@ -1,7 +1,7 @@
 # Infocorp.html
 Demonstrattion of html, css and javascript in one page named as infocorp.
 Infocorp is a startup idea that i decided to present it in this way.
-#Services that infocorp are supposed to provide :
+# Services that infocorp are supposed to provide :
 1. cyber security
 2. information gathering and data analytics
 3. business analytics and growth prediction

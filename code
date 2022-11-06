@@ -81,8 +81,7 @@
     for(x=0;x<1;x++){
         console.log("25 din me paisa double");
     }
-
-
+    
     </script>
         
     </body>
